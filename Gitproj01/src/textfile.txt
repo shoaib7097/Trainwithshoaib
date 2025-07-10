@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hello Shoaib
 
-theek hun
-=======
 Hello shoaib
 kaise ho?
->>>>>>> 65f82718554e06670916a5282943bda8d864b5a9
+main theek hun aap kaise ho?
