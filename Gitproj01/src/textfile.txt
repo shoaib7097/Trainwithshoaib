@@ -2,8 +2,15 @@
 hello shoaib how are you
 I am good aap kaise ho?
 ye line mera brach ke branch se update ho raha hai
+<<<<<<< HEAD
 
 
 
 
 ye dusra story rahinga
+=======
+editing from onemore
+
+story121 
+I want to push in stash
+>>>>>>> onemore
